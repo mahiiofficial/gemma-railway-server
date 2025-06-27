@@ -1,4 +1,3 @@
 ﻿flask
 torch
-soundfile
-espnet_model_zoo
+transformers
